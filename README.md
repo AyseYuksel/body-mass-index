@@ -1,2 +1,2 @@
 # -body-mass-index
- body mass index calculate with php
+ body mass index calculation with php
